@@ -1,8 +1,8 @@
-### Olá! Eu sou a Snádya Freitas 👨🏼‍💻
+### Olá! Eu sou a Snádya Freitas 👋🏼
 
-- 🔭 Hoje trabalho em front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronomes: ela/dela
+👾 Hoje trabalho em front-end
+🧠 Estudando JavaScript
+🧑🏻 Pronomes: ela/dela
   
 
 
